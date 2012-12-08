@@ -1,0 +1,8 @@
+## Interface: 20400
+## Title: Bagnon Square
+## Notes: Sets inventory and bank layout to form a square.
+## Author: Siarkowy
+## Version: 1.0
+## Dependencies: Bagnon
+
+Square.lua
